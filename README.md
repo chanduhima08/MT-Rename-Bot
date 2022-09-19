@@ -1,4 +1,4 @@
-## MT Rename Bot
+Ni## MT Rename Bot
 
 </p>
 <p align="center">
@@ -24,7 +24,7 @@ Tutorial Video👇
 **[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
 
 Deploy To Hereku👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chanduhima08/MT-Rename-Bot)
 </pre>
 </p>
 </details>
